@@ -1,0 +1,18 @@
+<style>
+.center {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.center img {
+    width: 100%;
+}
+</style>
+
+<div class="center">
+  <img src="Spam_can_text.png">
+</div>
